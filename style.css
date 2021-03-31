@@ -1,0 +1,19 @@
+.kaikki {
+    width: 900px;
+    border:none;
+    overflow: hidden;
+    padding-bottom: 5px;
+}
+.nahtavyydet {
+    border: none;
+}
+.kuva {
+    float:left;
+    padding-right: 50px;
+}
+  .teksti {
+    background-color: lightblue;
+    width: 500px;
+    float: left;
+    border: none;
+  }
